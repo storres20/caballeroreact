@@ -28,10 +28,12 @@ Pagina web estatica elaborada para mostrar informacion de la Cevicheria, Menu y 
  	
 ## Guía de instalación
 ---
-* El proyecto está basado en HTML, CSS y Javascript
+* El proyecto está basado en HTML, CSS y React js
  * Para el Navbar se ha usado bootstrap
+ * Se ha utilizado el administrador de paquetes "yarn"
 * Para la instalacion:
   * Clonar el repositorio
+  * yarn install
 
 
 ## Información adicional
