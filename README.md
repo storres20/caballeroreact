@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+<h1 align="center">Cevicheria - El Caballero de los Mares</h1>
+<p align="center"><img src="https://user-images.githubusercontent.com/81504385/153731420-d67ce3b6-271c-4a93-9191-b153f47d0914.png"/></p> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tabla de contenidos:
+---
 
-## Available Scripts
+- [## Tabla de contenidos:](#-tabla-de-contenidos)
+- [## Descripción y contexto](#-descripción-y-contexto)
+- [## Guía de usuario](#-guía-de-usuario)
+- [## Guía de instalación](#-guía-de-instalación)
+- [## Información adicional](#-información-adicional)
+  - [🔭Skils:](#skils)
+- [🌱 Beta version](#-beta-version)
+- [🎨 Maquetado - Figma](#-maquetado---figma)
 
-In the project directory, you can run:
 
-### `yarn start`
+## Descripción y contexto
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> Pagina web estatica para Empresa de elaboracion de comida marina
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Guía de usuario
+---
+Pagina web estatica elaborada para mostrar informacion de la Cevicheria, Menu y otros. Proximamente contará con "formulario de contacto", "carrousel de menu", etc.
 
-### `yarn test`
+![image](https://user-images.githubusercontent.com/81504385/153731489-b52b8fff-afc9-4056-aca9-ccec647a62ba.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ 	
+## Guía de instalación
+---
+* El proyecto está basado en HTML, CSS y React js
+ * Para el Navbar se ha usado bootstrap
+ * Se ha utilizado el administrador de paquetes "yarn"
+* Para la instalacion:
+  * Clonar el repositorio
+  * yarn install
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Información adicional
+---
+### 🔭Skils:
+Tecnologias utilizadas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+| `🔭Frontend` | `⚡Backend` | `📫Database` |
+| ------ | ------ | ------ | 
+| HTML | |  |
+| CSS |  |  |
+| React js |  |  |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## 🌱 Beta version
+Pagina web
+<ul>
+<!-- <li> <a href="https://elcaballerosingle.netlify.app/" target="_blank">https://elcaballerosingle.netlify.app/</a> </li> -->
+<li>Coming Soon!</li>
+</ul>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🎨 Maquetado - Figma
+<ul>
+<li> <a href="https://www.figma.com/file/li6agWiNyBh7ptkjsp9aWR/cebicheria?node-id=0%3A1" target="_blank">https://www.figma.com/file/li6agWiNyBh7ptkjsp9aWR/cebicheria?node-id=0%3A1</a> </li>
+</ul>
