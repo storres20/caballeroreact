@@ -14,11 +14,6 @@ function App() {
     <BrowserRouter>
       <NavbarRB2/>
       <NavbarRB/>
-      {/* <header>
-        <Link to="/">
-          <h1 className={styles.title}>Movies</h1>
-        </Link>
-      </header> */}
       <main>
         <Routes>
           <Route path="/" element={<Home />} />

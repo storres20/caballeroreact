@@ -10,9 +10,27 @@
   --cyan-color: #6DCBFF;
 }
 
-.position{
+.navRb2Title{
   text-align: center;
   background-color: var(--blue-color);
   color: var(--white-color);
   font-family: 'Satisfy', cursive;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.navRb2TitleIn{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.navRb2Icon{
+  color: var(--white-color);
+  margin-top: 70%;
+}
+
+.navRb2Title > h1 > a :hover{
+  color: var(--cyan-color);
 }
