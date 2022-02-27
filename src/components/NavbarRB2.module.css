@@ -1,0 +1,36 @@
+/* Google Fonts - start */
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
+/* Google Fonts - end */
+
+:root {
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --blue-color: #00283F;
+  --cyan-color: #6DCBFF;
+}
+
+.navRb2Title{
+  text-align: center;
+  background-color: var(--blue-color);
+  color: var(--white-color);
+  font-family: 'Satisfy', cursive;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.navRb2TitleIn{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.navRb2Icon{
+  color: var(--white-color);
+  margin-top: 70%;
+}
+
+.navRb2Title > h1 > a :hover{
+  color: var(--cyan-color);
+}
