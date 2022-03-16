@@ -8,7 +8,7 @@ import Home from "./pages/Home";
 import Menu from "./pages/Menu";
 import NavbarRB from "./components/NavbarRB";
 import NavbarRB2 from "./components/NavbarRB2";
-import Footer from "./components/Footer";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
